@@ -1,8 +1,8 @@
-# VodkaMalware Documentation
+# Security Audit Toolkit Documentation
 
 ## Overview
 
-VodkaMalware is a Python-based tool designed to generate various types of executable files, such as password grabbers, history grabbers, and keyloggers. The tool uses `PyInstaller` to package Python scripts into standalone executables. It also provides functionality to clean up and remove the generated executables.
+Security Audit Toolkit is a Python-based tool designed to generate various types of executable files, such as password grabbers, history grabbers, and keyloggers. The tool uses `PyInstaller` to package Python scripts into standalone executables. It also provides functionality to clean up and remove the generated executables.
 
 ## Prerequisites
 
